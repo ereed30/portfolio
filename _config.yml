@@ -2,12 +2,13 @@ title: Evan Reed # your name (or website title) here
 logo: "/images/IMG_1150.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Georgia Institute of Technology
-  <br><br>
+  <br>
   MS Analytics '22
-  <br><br>
+  <br>
   BS ISyE '17
-  <br><br>
-  <br><br>
+  <br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/evan-reed-31122075/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
