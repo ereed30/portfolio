@@ -4,16 +4,16 @@
 
 ### Projects
 
-[Object Tracking](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Object Detection and Tracking](/sample_page)
+<img src="images/object.jpg?raw=true"/>
 
 ---
 [Phishing Classification](/pdf/Phishing_Classification.pdf)
-<img src="images/hacker_image.jpeg?raw=true"/>
+<img src="images/hacker.jpg?raw=true"/>
 
 ---
 [Twitter Analysis](/pdf/Twitter_Analysis.pdf)
-<img src="images/Twitter_Image.jpeg?raw=true"/>
+<img src="images/twitter.jpg?raw=true"/>
 
 ---
 
