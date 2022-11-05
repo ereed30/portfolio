@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Phishing_Classification.pdf)
+[Phishing_Classification](/pdf/Phishing_Classification.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Twitter_Analysis.pdf)
+[Twitter Analysis](/pdf/Twitter_Analysis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Coursework
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
