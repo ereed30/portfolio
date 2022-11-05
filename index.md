@@ -4,11 +4,11 @@
 
 ### Projects
 
-[Project 1 Title](/sample_page)
+[Object Tracking](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Phishing_Classification](/pdf/Phishing_Classification.pdf)
+[Phishing Classification](/pdf/Phishing_Classification.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,11 +19,12 @@
 
 ### Coursework
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Data Mining & Statistical Learning](http://example.com/)
+- [Computational Data Analysis](http://example.com/)
+- [Machine Learning For Trading](http://example.com/)
+- [Regression Analysis](http://example.com/)
+- [Data & Visual Analytics](http://example.com/)
+- [Simulation](http://example.com/)
 
 ---
 
