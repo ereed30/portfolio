@@ -9,11 +9,11 @@
 
 ---
 [Phishing Classification](/pdf/Phishing_Classification.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hacker_image.jpg?raw=true"/>
 
 ---
 [Twitter Analysis](/pdf/Twitter_Analysis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Twitter_Image.jpg?raw=true"/>
 
 ---
 
