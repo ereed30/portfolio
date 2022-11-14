@@ -5,6 +5,7 @@
 ### Projects
 
 [Object Detection and Tracking](/sample_page)
+<br>
 <img src="images/object.jpg?raw=true"/>
 
 ---
