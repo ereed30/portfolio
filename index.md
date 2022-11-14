@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Object Detection and Tracking](/sample_page)
+[Object Detection and Tracking](/pdf/Final_Report_TrackingV2.pdf)
 <br>
 <img src="images/object.jpg?raw=true"/>
 
@@ -22,12 +22,12 @@
 
 ### Coursework
 
-- [Data Mining & Statistical Learning](http://example.com/)
-- [Computational Data Analysis](http://example.com/)
-- [Machine Learning For Trading](http://example.com/)
-- [Regression Analysis](http://example.com/)
-- [Data & Visual Analytics](http://example.com/)
-- [Simulation](http://example.com/)
+- [Data Mining & Statistical Learning]
+- [Computational Data Analysis]
+- [Machine Learning For Trading]
+- [Regression Analysis]
+- [Data & Visual Analytics]
+- [Simulation]
 
 ---
 
