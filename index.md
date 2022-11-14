@@ -22,12 +22,12 @@
 
 ### Coursework
 
-- [Data Mining & Statistical Learning]
-- [Computational Data Analysis]
-- [Machine Learning For Trading]
-- [Regression Analysis]
-- [Data & Visual Analytics]
-- [Simulation]
+- Data Mining & Statistical Learning
+- Computational Data Analysis
+- Machine Learning For Trading
+- Regression Analysis
+- Data & Visual Analytics
+- Simulation
 
 ---
 
