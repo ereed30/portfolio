@@ -10,10 +10,12 @@
 
 ---
 [Phishing Classification](/pdf/Phishing_Classification.pdf)
+<br>
 <img src="images/hacker.jpg?raw=true"/>
 
 ---
 [Twitter Analysis](/pdf/Twitter_Analysis.pdf)
+<br>
 <img src="images/twitter.jpg?raw=true"/>
 
 ---
